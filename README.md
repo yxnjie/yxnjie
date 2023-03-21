@@ -10,7 +10,7 @@
 </br>
 <h1 align="center">Contact Me </h1>
 <p align="left" border-radius="10px">
-  <a href="" target="_blank"><img src="" height="30" width="30" alt="e-z"/> </a>
+  <a href="" target="_blank"><img src="https://s3.us-east-1.wasabisys.com/e-zimagehosting/eztransparent.png" height="30" width="30" alt="e-z"/> </a>
   <a href="https://discord.com/users/1075220234161627158/profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="discord"/> </a>
 </p>
 <a href="https://discord.com/users/1075220234161627158"><img src="https://lanyard-profile-readme.vercel.app/api/1075220234161627158" width=45%></a>
