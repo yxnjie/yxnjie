@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yxnjie&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 </br>
 <h1 align="center">Github Statistics </h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yj" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yxnjie" alt="" /></a> </p>
 <p align = "left">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=apilol&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Api-was-taken" width = "60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yxnjietheme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Api-was-taken" width = "60%"/>
 </p>
 </br>
 <h1 align="center">Contact Me </h1>
